@@ -1,0 +1,8 @@
+# Apple News 圈X规则
+DOMAIN,gateway.icloud.com,AppleNew
+DOMAIN,gspe1-ssl.ls.apple.com,AppleNew
+DOMAIN-SUFFIX,apple.news,AppleNew
+DOMAIN,apple.comscoreresearch.com,AppleNew
+DOMAIN,news-client.apple.com,AppleNew
+DOMAIN,news-events.apple.com,AppleNew
+DOMAIN,news-edge.apple.com,AppleNew
